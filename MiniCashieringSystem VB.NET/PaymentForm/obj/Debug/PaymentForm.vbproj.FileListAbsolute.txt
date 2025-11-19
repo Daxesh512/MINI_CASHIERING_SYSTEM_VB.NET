@@ -1,0 +1,38 @@
+c:\users\janobe\documents\visual studio 2015\Projects\PaymentForm\PaymentForm\bin\Debug\PaymentForm.exe.config
+c:\users\janobe\documents\visual studio 2015\Projects\PaymentForm\PaymentForm\bin\Debug\PaymentForm.exe
+c:\users\janobe\documents\visual studio 2015\Projects\PaymentForm\PaymentForm\bin\Debug\PaymentForm.pdb
+c:\users\janobe\documents\visual studio 2015\Projects\PaymentForm\PaymentForm\bin\Debug\PaymentForm.xml
+c:\users\janobe\documents\visual studio 2015\Projects\PaymentForm\PaymentForm\obj\Debug\PaymentForm.vbprojResolveAssemblyReference.cache
+c:\users\janobe\documents\visual studio 2015\Projects\PaymentForm\PaymentForm\obj\Debug\PaymentForm.Form1.resources
+c:\users\janobe\documents\visual studio 2015\Projects\PaymentForm\PaymentForm\obj\Debug\PaymentForm.Resources.resources
+c:\users\janobe\documents\visual studio 2015\Projects\PaymentForm\PaymentForm\obj\Debug\PaymentForm.vbproj.GenerateResource.Cache
+c:\users\janobe\documents\visual studio 2015\Projects\PaymentForm\PaymentForm\obj\Debug\PaymentForm.exe
+c:\users\janobe\documents\visual studio 2015\Projects\PaymentForm\PaymentForm\obj\Debug\PaymentForm.xml
+c:\users\janobe\documents\visual studio 2015\Projects\PaymentForm\PaymentForm\obj\Debug\PaymentForm.pdb
+c:\users\janobe\documents\visual studio 2015\Projects\PaymentForm\PaymentForm\obj\Debug\PaymentForm.Form2.resources
+F:\Sem.4\VB.net Trials\PaymentForm\PaymentForm\bin\Debug\PaymentForm.exe.config
+F:\Sem.4\VB.net Trials\PaymentForm\PaymentForm\bin\Debug\PaymentForm.exe
+F:\Sem.4\VB.net Trials\PaymentForm\PaymentForm\bin\Debug\PaymentForm.pdb
+F:\Sem.4\VB.net Trials\PaymentForm\PaymentForm\bin\Debug\PaymentForm.xml
+F:\Sem.4\VB.net Trials\PaymentForm\PaymentForm\obj\Debug\PaymentForm.vbprojResolveAssemblyReference.cache
+F:\Sem.4\VB.net Trials\PaymentForm\PaymentForm\obj\Debug\PaymentForm.Form1.resources
+F:\Sem.4\VB.net Trials\PaymentForm\PaymentForm\obj\Debug\PaymentForm.Form2.resources
+F:\Sem.4\VB.net Trials\PaymentForm\PaymentForm\obj\Debug\PaymentForm.Resources.resources
+F:\Sem.4\VB.net Trials\PaymentForm\PaymentForm\obj\Debug\PaymentForm.vbproj.GenerateResource.Cache
+F:\Sem.4\VB.net Trials\PaymentForm\PaymentForm\obj\Debug\PaymentForm.vbproj.CoreCompileInputs.cache
+F:\Sem.4\VB.net Trials\PaymentForm\PaymentForm\obj\Debug\PaymentForm.exe
+F:\Sem.4\VB.net Trials\PaymentForm\PaymentForm\obj\Debug\PaymentForm.xml
+F:\Sem.4\VB.net Trials\PaymentForm\PaymentForm\obj\Debug\PaymentForm.pdb
+F:\Sem.4\extra vs code\MiniCashieringSystem VB.NET\PaymentForm\bin\Debug\PaymentForm.exe.config
+F:\Sem.4\extra vs code\MiniCashieringSystem VB.NET\PaymentForm\bin\Debug\PaymentForm.exe
+F:\Sem.4\extra vs code\MiniCashieringSystem VB.NET\PaymentForm\bin\Debug\PaymentForm.pdb
+F:\Sem.4\extra vs code\MiniCashieringSystem VB.NET\PaymentForm\bin\Debug\PaymentForm.xml
+F:\Sem.4\extra vs code\MiniCashieringSystem VB.NET\PaymentForm\obj\Debug\PaymentForm.vbprojResolveAssemblyReference.cache
+F:\Sem.4\extra vs code\MiniCashieringSystem VB.NET\PaymentForm\obj\Debug\PaymentForm.Form1.resources
+F:\Sem.4\extra vs code\MiniCashieringSystem VB.NET\PaymentForm\obj\Debug\PaymentForm.Form2.resources
+F:\Sem.4\extra vs code\MiniCashieringSystem VB.NET\PaymentForm\obj\Debug\PaymentForm.Resources.resources
+F:\Sem.4\extra vs code\MiniCashieringSystem VB.NET\PaymentForm\obj\Debug\PaymentForm.vbproj.GenerateResource.Cache
+F:\Sem.4\extra vs code\MiniCashieringSystem VB.NET\PaymentForm\obj\Debug\PaymentForm.vbproj.CoreCompileInputs.cache
+F:\Sem.4\extra vs code\MiniCashieringSystem VB.NET\PaymentForm\obj\Debug\PaymentForm.exe
+F:\Sem.4\extra vs code\MiniCashieringSystem VB.NET\PaymentForm\obj\Debug\PaymentForm.xml
+F:\Sem.4\extra vs code\MiniCashieringSystem VB.NET\PaymentForm\obj\Debug\PaymentForm.pdb
